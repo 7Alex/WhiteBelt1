@@ -1,0 +1,51 @@
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Khand|Rock+Salt" rel="stylesheet" type="text/css">
+<title> Tatsu's Menú 
+</title>
+</head>
+<style>
+.titulo {
+font-family:"Rock Salt" , cursive;
+font-size: 25px;
+padding: 20px;
+background-color:#A62828;}
+.parrafo1 {
+background-color: #5A2F2F;
+padding: 25px 25px 35px 25px;
+font-family: "Khand", sans-serif;
+font-size: 25px;
+border-radius: 31px 31px 31px 31px;
+-moz-border-radius: 31px 31px 31px 31px;
+-webkit-border-radius: 31px 31px 31px 31px;
+border: 0px;
+margin: 15px;}
+</style>
+<body background="red-background-05.jpg">
+<h1 class="titulo"> Menú 
+</h1>
+<div class="parrafo1"> 
+<img align=left src="http://www.recetasushi.net/ImagenesSushi/ImagenesTop/SushiDeFideos.jpg">
+<h5> Sushi de fideos </h5>
+<br>
+<p> Esta receta de Sushi de fideos sustituye el pescado por fideos japoneses, una forma distinta de comer Sushi, sobre todo para aquellos a los que no les gusta el pescado crudo. Pruebala, seguro que te sorprende </p> 
+</div>
+<div class="parrafo1">
+<img align=right src="http://i.blogs.es/7c538b/_mg_9404-copia/original.jpg"> 
+<h5> Sushi maki de huevas </h5>
+<br>
+<p>Esta receta de Sushi de huevas que te traemos es una variante de la receta tradicional, pero que es igualmente nutritiva y deliciosa. Esperamos que te guste. </p>
+</div>
+<div class="parrafo1"> 
+<img align=left src="https://i.ytimg.com/vi/y0RkSKTu56w/maxresdefault.jpg">
+<h5> Sashimi de salmón </h5> 
+<br>
+<p>El sashimi es habitualmente salmón, atún o pez espada entre otros, cortado en lonchas oblicuas no extremadamente fina, y se acompaña con salsa de soja, wasabi, limón, jengibre encurtido, arroz, fideos… hay muchas opciones!</p>
+</div>
+<div class="parrafo1"> 
+<img align=right src="http://diet-kintore.com/wp-content/uploads/2015/02/s_1613-e1425131411469.jpg">
+<h5> Onigiri </h5>
+<br>
+<p> Onigiri también conocido como Omusubi es un plato japonés que consiste en una bola de arroz rellena o mezclada con otros ingredientes. Suele tener forma triangular u oval, y a veces está envuelta en una pequeña tira de alga nori. </p>
+</body>  
+</html>
